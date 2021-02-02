@@ -8,6 +8,7 @@ def gcd(a, b):
 def main():
     '''source: https://www.acmicpc.net/problem/9613'''
     T = int(input())
+    
     for t in range(T):
         num_list = list(map(int, input().split()))
         num_list = num_list[1:]

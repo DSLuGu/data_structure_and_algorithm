@@ -7,6 +7,7 @@ def f(a, b):
 def main():
     '''source: https://www.acmicpc.net/problem/1934'''
     T = int(input())
+
     for t in range(T):
         a, b = map(int, input().split())
         print(a * b // f(a, b))
