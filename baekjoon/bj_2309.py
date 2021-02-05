@@ -12,7 +12,7 @@ def solve(case):
 
 
 def main():
-    '''source: https://www.acmicpc.net/problem/6588'''
+    '''source: https://www.acmicpc.net/problem/2309'''
     '''idea: '''
     child = set()
     for i in range(9):

@@ -2,7 +2,7 @@ import sys
 
 
 def main():
-    '''source: https://www.acmicpc.net/problem/6588'''
+    '''source: https://www.acmicpc.net/problem/1476'''
     '''idea: '''
     e, s, m = map(int, sys.stdin.readline().split())
     year = 0
